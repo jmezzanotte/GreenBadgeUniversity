@@ -1,3 +1,4 @@
+#edit
 # Simple program to decide if a person is accepeted into college
 # Varables to compair: Age, GPA, Parents, SAT Score
 
