@@ -1,0 +1,16 @@
+# PyCharm
+.idea/
+*.ipr
+*.iws
+/*.iml
+
+# Virtualenvs
+venv/
+Include/
+Scripts/
+Lib/
+
+# Python pre-compiled scripts
+*.pyc
+*.whl
+*.conf
